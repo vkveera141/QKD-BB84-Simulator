@@ -27,6 +27,8 @@ A web-based simulation of the BB84 Quantum Key Distribution protocol with encryp
 
 ## 👨‍💻 Author
 **Veerakumar S**  
+FIRST YEAR STUDENT
+KPRIET
 
 ---
 
